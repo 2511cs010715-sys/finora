@@ -1,0 +1,48 @@
+package com.finverse.dto;
+
+public class AuthResponse {
+    private String token;
+    private String tokenType = "Bearer";
+    private Long id;
+    private String name;
+    private String email;
+    private String role;
+    private String riskPreference;
+    private String themePreference;
+
+    public AuthResponse() {}
+
+    public AuthResponse(String token, Long id, String name, String email, String role, String riskPreference, String themePreference) {
+        this.token = token;
+        this.id = id;
+        this.name = name;
+        this.email = email;
+        this.role = role;
+        this.riskPreference = riskPreference;
+        this.themePreference = themePreference;
+    }
+
+    public String getToken() { return token; }
+    public void setToken(String token) { this.token = token; }
+
+    public String getTokenType() { return tokenType; }
+    public void setTokenType(String tokenType) { this.tokenType = tokenType; }
+
+    public Long getId() { return id; }
+    public void setId(Long id) { this.id = id; }
+
+    public String getName() { return name; }
+    public void setName(String name) { this.name = name; }
+
+    public String getEmail() { return email; }
+    public void setEmail(String email) { this.email = email; }
+
+    public String getRole() { return role; }
+    public void setRole(String role) { this.role = role; }
+
+    public String getRiskPreference() { return riskPreference; }
+    public void setRiskPreference(String riskPreference) { this.riskPreference = riskPreference; }
+
+    public String getThemePreference() { return themePreference; }
+    public void setThemePreference(String themePreference) { this.themePreference = themePreference; }
+}

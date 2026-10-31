@@ -1,0 +1,3 @@
+@echo off
+title LAUNCH FINORA 2026 FINANCIAL COMMAND CENTER
+call "%~dp0RUN_FINORA.bat"

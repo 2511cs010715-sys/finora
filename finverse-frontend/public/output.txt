@@ -1,0 +1,68 @@
+================================================================================
+          FINPLANNER & FINVERSE AI FINANCIAL ADVISORY EXECUTION REPORT          
+================================================================================
+Generated Timestamp : 2026-08-13T21:58:12+05:30
+Telemetry Engine    : Python 3.11 Microservice (Scikit-Learn + Flask)
+System Status       : 🟢 ONLINE (Port 5001 & Port 5000)
+
+--------------------------------------------------------------------------------
+1. EXECUTIVE FINANCIAL HEALTH SUMMARY
+--------------------------------------------------------------------------------
+Overall Financial Health Index : 86 / 100 [GRADE: EXCELLENT]
+Monthly Net Income             : ₹50,000.00
+Total Monthly Outflow          : ₹30,800.00
+Net Monthly Savings            : ₹19,200.00
+Monthly Savings Rate           : 38.40%  (Benchmark: >= 20.0%)
+Expense-to-Income Ratio        : 61.60%  (Benchmark: <= 70.0%)
+Total Invested Capital         : ₹75,000.00
+Active Goal Completion Average : 55.00%
+
+--------------------------------------------------------------------------------
+2. FINANCIAL INDEX COMPONENT BREAKDOWN WEIGHTS
+--------------------------------------------------------------------------------
+- Savings Margin Weight  (40%) : Score 38.4 / 40.0 [Target Achieved]
+- Expense Control Weight (25%) : Score 23.1 / 25.0 [Under Benchmark Ceiling]
+- Goal Velocity Weight   (20%) : Score 11.0 / 20.0 [Pacing Moderate]
+- Asset Liquidity Weight (15%) : Score 13.5 / 15.0 [Good Portfolio Depth]
+
+--------------------------------------------------------------------------------
+3. ALGORITHMIC AI SUGGESTIONS & ACTIONABLE INSIGHTS
+--------------------------------------------------------------------------------
+[REC-1] TYPE: SUCCESS | CATEGORY: Savings Discipline
+        TITLE: Healthy Savings Rate (38.4%)
+        MESSAGE: Your monthly savings rate exceeds the 20% benchmark. Maintain this baseline to fund high-priority goal milestones.
+        PROJECTED IMPACT: +₹19,200 / Month Capital Growth
+        RECOMMENDED ACTION: Lock in Automated Monthly Transfer
+
+[REC-2] TYPE: WARNING | CATEGORY: Expense Management
+        TITLE: Bills & Utilities Exceed 45% of Outflow
+        MESSAGE: Housing rent and utility bills account for ₹14,800. Review subscription bills and discretionary utility usage to optimize savings.
+        PROJECTED IMPACT: Potential ₹2,500/mo Recaptured Savings
+        RECOMMENDED ACTION: Review Utility Ledger & Audit Subscriptions
+
+[REC-3] TYPE: INFO    | CATEGORY: Goal Acceleration
+        TITLE: Accelerate Emergency Fund Milestone
+        MESSAGE: Your Emergency Reserve Fund is currently at 60% completion. Increasing monthly contribution by ₹3,000 achieves 100% target by November.
+        PROJECTED IMPACT: Milestone Completed 30 Days Early
+        RECOMMENDED ACTION: Increase Contribution
+
+[REC-4] TYPE: INFO    | CATEGORY: Asset Allocation
+        TITLE: Rebalance Equities & Fixed Deposits
+        MESSAGE: Portfolio allocation is 40% Mutual Funds, 33% Equities, 20% Fixed Deposits, 7% Gold. Consider Dollar Cost Averaging on market dips.
+        PROJECTED IMPACT: Optimized Risk-Adjusted Returns
+        RECOMMENDED ACTION: Rebalance Portfolio
+
+--------------------------------------------------------------------------------
+4. MARKET VOLATILITY & SECTOR DIAGNOSTICS
+--------------------------------------------------------------------------------
+- Tech Sector Volatility : +3.2% Variance (Elevated price swings in tech equities)
+- Benchmark Index Drift  : +0.60% Steady (NIFTY 50 trading near all-time high ranges)
+- AI Regressor Confidence: 89.4% Confidence Score (Random Forest Model Baseline)
+
+--------------------------------------------------------------------------------
+5. EDUCATIONAL ADVISORY DISCLAIMER
+--------------------------------------------------------------------------------
+Insights are generated algorithmically for educational personal budget planning 
+and Viva demonstration. FinPlanner does not provide guaranteed buy/sell 
+recommendations or regulated financial advice.
+================================================================================
